@@ -1,1 +1,2 @@
-1.0:FALSE
+version=1.0
+status=FALSE
